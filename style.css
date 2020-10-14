@@ -1,0 +1,19 @@
+body
+  { 
+    text-align: center;
+    font-family: 'monotype corsiva';
+    color:orange;
+    font-size: 30px;
+    }
+h1 {
+    color: grey;
+    font-size: 70px;
+    text-shadow: 2px 2px red;
+
+}
+ marquee {
+    color: red;
+    font-size: 40px;
+    text-shadow: 2px 2px grey;
+
+}
